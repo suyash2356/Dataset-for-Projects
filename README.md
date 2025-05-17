@@ -12,10 +12,10 @@ Welcome! This repository contains datasets used in my data science and machine l
 
 | Dataset File             | Description                               | Format  |
 | ------------------------ | ----------------------------------------- | ------- |
-| `sales_data.csv`         | Monthly sales records for retail analysis | `.csv`  |
-| `customer_feedback.json` | Raw customer reviews scraped from surveys | `.json` |
-| `image_labels.xlsx`      | Annotated labels for classification task  | `.xlsx` |
-| `sensor_readings.csv`    | IoT sensor data from a manufacturing unit | `.csv`  |
+| `House_Prices Sample dataset.xlsx`         | House price accoring based on location & condition | `.xlsx`  |
+| `bank_transaction_data_2.csv` | Transaction history of a raw bank | `.csv` |
+| `cricket_data_2025.csv`      | All IPL Men's Cricket player performance data  | `.csv` |
+| |  |   |
 
 > ℹ️ Each dataset is located in a separate folder (e.g., `/sales_data/`, `/customer_feedback/`) and may include a `README.md` with details like columns, sources, and license.
 
